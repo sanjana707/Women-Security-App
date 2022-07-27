@@ -1,6 +1,7 @@
 # bSafe
 
-This Women security android app is aimed to help women in danger. It sends SOS message to the emergency contacts when prompted by the user. 
+This Women security android app is aimed to help women in danger. 
+It sends SOS message to the emergency contacts when prompted by the user. 
 
 ## Features: 
   1. Scream alarm 
